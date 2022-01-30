@@ -3,3 +3,4 @@ Third project of the Computer Architecure class.
 
 Graded in 17/20.
 
+![Project](./closedSpacesController.png)
